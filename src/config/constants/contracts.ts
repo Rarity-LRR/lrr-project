@@ -1,0 +1,1 @@
+export const RarityRingRewards = "0x377F5BAC5CCf7a3F06285F45aD1B28a4E25C7C44"
